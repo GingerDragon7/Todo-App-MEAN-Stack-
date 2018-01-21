@@ -1,2 +1,11 @@
-# Todo-App-MEAN-Stack-
-A Todo MEAN App -using  MongoDB, Expressjs, Angularjs and Nodejs
+
+A Todo MEAN App - MongoDB, Expressjs, Angularjs and Nodejs
+
+Install
+
+Download/clone the repo
+Run npm install
+Run gulp and navigate to http://localhost:3000 to view the app
+Tutorial
+
+MEAN stack – A Hands on Tutorial
